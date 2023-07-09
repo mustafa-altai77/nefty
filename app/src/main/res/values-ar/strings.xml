@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">نفطي</string>
+    <string name="app_test_name">NeftyTest</string>
+    <string name="please_wait">يرجى الانتظار</string>
+    <string name="ok">حسناً</string>
+    <string name="password_confirmation">تأكيد كلمة المرور</string>
+    <string name="you_cannot_register_without_accepting_terms">يجب الموافقة على شروط التسجيل قبل تسجيل حسابك</string>
+    <string name="passowrd_not_matched">كلمة المرور وتأكيدها ليسوا متطابقين</string>
+    <string name="invalid_mobile">رقم الجوال غير صحيح</string>
+    <string name="invalid_email">البريد الالكتروني غير صحيح</string>
+    <string name="change_password">تغيير كلمة المرور</string>
+    <string name="chooseSource">اختر مصدر الصورة</string>
+    <string name="Galary">المعرض</string>
+    <string name="file_access_permission">لا يوجد صلاحيات وصول للملفات</string>
+    <string name="Camera">الكاميرا</string>
+    <string name="no_camera_permission">لا يوجد صلاحيات وصول للكاميرا</string>
+    <string name="no_camera_file_permission">لا يوجد صلاحيات وصول للملفات او الكاميرا</string>
+    <string name="allow_permission">السماح بالصلاحية</string>
+    <string name="email">البريد الالكتروني</string>
+    <string name="password">كلمة المرور</string>
+    <string name="no_account">ليس لديك حساب؟</string>
+    <string name="register">قم بالتسجيل</string>
+    <string name="login">تسجيل الدخول</string>
+    <string name="login_sucessfully">تم تسجيل الدخول بنجاح</string>
+    <string name="fill_all_required">من فضلك قم بادخال كافة الحقول</string>
+    <string name="enter_sms_otp">تم ارسال رقم التحقق الى جوالك عبر رسالة نصية قصيرة، قم بادخاله</string>
+    <string name="not_receving">لم تحصل على رقم التحقق؟</string>
+    <string name="resend_otp">اعادة الارسال</string>
+    <string name="invalid_otp">كلمة المرور المؤقتة غير صحيحة</string>
+    <string name="signout">تسجيل خروج</string>
+    <string name="open">فتح</string>
+    <string name="close">اغلاق</string>
+    <string name="Signup">تسجيل حساب</string>
+    <string name="register_successfully">تم تسجيل الحساب بنجاح</string>
+    <string name="forget_password">نسيت كلمة المرور؟</string>
+    <string name="code_email">رقم التحقق المرسل للبريد</string>
+    <string name="new_password">كلمة المرور الجديدة</string>
+    <string name="arrival_time">وقت الوصول</string>
+    <string name="not_recive_code">لم تحصل على رقم التحقق؟</string>
+    <string name="resend_it">اعادة الارسال</string>
+    <string name="reset_password">اعادة وضع كلمة المرور</string>
+    <string name="seconds">ثانية</string>
+    <string name="reset_password_successfully">تم اعادة وضع كلمة المرور بنجاح</string>
+    <string name="old_password">كلمة المرور القديمة</string>
+    <string name="send">أرسل</string>
+    <string name="full_name">الإسم كاملاً</string>
+    <string name="mobile">رقم الجوال</string>
+    <string name="identity_number">الرقم الوطني</string>
+    <string name="signup_terms">أنا موافق على <a href="https://google.com">الشروط والأحكام</a> في التطبيق </string>
+    <string name="register_now">التسجيل</string>
+    <string name="optional">اختياري</string>
+</resources>

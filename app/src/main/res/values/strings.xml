@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Nefty</string>
+    <string name="app_test_name">NeftyTest</string>
+    <string name="please_wait">Please Wait</string>
+    <string name="ok">OK</string>
+    <string name="password_confirmation">Password Confirmation</string>
+    <string name="you_cannot_register_without_accepting_terms">You cannot register without accepting terms</string>
+    <string name="passowrd_not_matched">Passwords are not matched</string>
+    <string name="invalid_mobile">Mobile Number is Invalid</string>
+    <string name="invalid_email">Invalid Email Address</string>
+    <string name="change_password">Change Password</string>
+    <string name="chooseSource">Choose Image Source</string>
+    <string name="Galary">Gallery</string>
+    <string name="file_access_permission">No File Access Permission</string>
+    <string name="Camera">Camera</string>
+    <string name="no_camera_permission">No Camera Permission</string>
+    <string name="no_camera_file_permission">File or camera access is not found</string>
+    <string name="allow_permission">Give Permission</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="no_account">Don\'t have an account?</string>
+    <string name="register">Register new account</string>
+    <string name="login">Login</string>
+    <string name="login_sucessfully">Login successfully</string>
+    <string name="fill_all_required">Please fill all the required fields</string>
+    <string name="enter_sms_otp">We\'ve sent a verification code to your mobile SMS , please enter it below</string>
+    <string name="not_receving">Didn\'t get your code?</string>
+    <string name="resend_otp">Resend it</string>
+    <string name="invalid_otp">Invalid OTP Number</string>
+    <string name="signout">Signout</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="Signup">Signup</string>
+    <string name="register_successfully">Your account have been registered successfully</string>
+    <string name="forget_password">Forget Password?</string>
+    <string name="code_email">Code Received by Email</string>
+    <string name="new_password">New Password</string>
+    <string name="arrival_time">Arrival Time</string>
+    <string name="not_recive_code">Didn\'t get your code?</string>
+    <string name="resend_it">Resend it</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="seconds">Seconds</string>
+    <string name="reset_password_successfully">Reset Password Successfully</string>
+    <string name="old_password">Old Password</string>
+    <string name="send">Send</string>
+    <string name="full_name">Full Name</string>
+    <string name="mobile">Mobile</string>
+    <string name="identity_number">National ID Number</string>
+    <string name="signup_terms">I agree to all <a href="https://google.com">terms and service agreement</a> for using the application</string>
+    <string name="register_now">Register</string>
+    <string name="optional">Optional</string>
+
+</resources>
